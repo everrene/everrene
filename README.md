@@ -1,1 +1,1 @@
-<img src="https://files.catbox.moe.2d0s3z" alt="cool image" width="500"/>
+<img src="https://files.catbox.moe.2dOs3z" alt="yuri" width="500"/>
